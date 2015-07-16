@@ -5,7 +5,7 @@ iQ — The Dynamic, Structured and Easy Form JS Library
 
 > **Notice : there are many projects to build web forms from JSON schema.**
 >
-> - Take a look to [JSON Editor](https://raw.github.com/jdorn/json-editor) :
+> - Take a look to [JSON Editor](https://github.com/jdorn/json-editor) :
 >
 >   ![JSON Schema -> HTML Editor -> JSON](https://raw.github.com/jdorn/json-editor/master/jsoneditor.png "JSON Editor")
 >  

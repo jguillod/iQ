@@ -1,7 +1,7 @@
 iQ — The Dynamic, Structured and Easy Form JS Library
 ====================================================
 
-©2011-5 by [iMed Edition](http://www.imed-edition.net) and [Joël Guillod](mailto:joel.guillod@gmail.com)
+©2011-5 by [iMed Edition](http://www.imed-edition.net)
 
 > **Notice : there are many projects to build web forms from JSON schema.**
 >
@@ -83,9 +83,8 @@ Because Q/A values are coded **automatic translation** in other languages is a f
 Various manipulations on the Q/A sets are included to **assist the user** during data capture. For instance in EHR iQ will enhance the patient encounter experience and the data quality and completion. User draws a differential diagnosis and then iQ dynamically composes the Form! More to say... stay tune.
 
 * * *
-Update: Mon Jul 04 2011 23:02:10 GMT+0200 (CEST)
-update Thu Jul 16 2015 18:44:22 GMT+0200 (CEST)
+Last update: Thu Jul 16 2015 20:12:05 GMT+0200 (CEST)
 
-See also: [iQ on Github](https://github.com/jguillod/iQ)
+[iQ on Github](https://github.com/jguillod/iQ)
 
-(c) Copyright 2011-15 by [iMed Edition](http://www.imed-edition.net) and [Joël Guillod](joel.guillod@me-com). All Rights Reserved.
+(c) Copyright 2011-15 by [iMed Edition](http://www.imed-edition.net).

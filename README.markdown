@@ -77,4 +77,4 @@ update Thu Jul 16 2015 18:44:22 GMT+0200 (CEST)
 
 See also: [iQ on Github](https://github.com/jguillod/iQ)
 
-(c) Copyright 2011-12 by [iMed Edition](http://www.imed-edition.net) and [Joël Guillod](joel.guillod@me-com). All Rights Reserved.
+(c) Copyright 2011-15 by [iMed Edition](http://www.imed-edition.net) and [Joël Guillod](joel.guillod@me-com). All Rights Reserved.

@@ -12,6 +12,7 @@ iQ — The Dynamic, Structured and Easy Form JS Library
 > Some others are :
 > 
 > - [Alpaca](https://github.com/gitana/alpaca) : well documented, JSON schema validation
+> - [Angular Schema Form](http://schemaform.io)
 > - [FormBuilder](http://dobtco.github.io/formbuilder)
 > - [JsonForm](http://github.com/joshfire/jsonform)
 > - [InputTex](http://neyric.github.io/inputex)

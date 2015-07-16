@@ -5,15 +5,15 @@ iQ — The Dynamic, Structured and Easy Form JS Library
 
 > **Notice : there are many projects to build web forms from JSON schema.**
 >
-> - Take a look to [JSON Editor](https://github.com/jdorn/json-editor) :
+> - Take a look to this active project [JSON Editor](https://github.com/jdorn/json-editor) :
 >
 >   ![JSON Schema -> HTML Editor -> JSON](https://raw.github.com/jdorn/json-editor/master/jsoneditor.png "JSON Editor")
 >  
 > Some others are :
 > 
-> - [Alpaca](https://github.com/gitana/alpaca) : well documented, JSON schema validation.
+> - [Alpaca](https://github.com/gitana/alpaca) : well documented, JSON schema validation
 > - [FormBuilder](http://dobtco.github.io/formbuilder)
-> - [JsonForm](http://github.com/joshfire/jsonform) : see [documentation](http://developer.joshfire.com/doc/ref/jsonform).
+> - [JsonForm](http://github.com/joshfire/jsonform)
 > - [InputTex](http://neyric.github.io/inputex)
 
 The iQ project aimed at building complex web forms and managing forms data. The base engine is written in javascript and the default adapter for user interface (GUI) uses the ExtJS 4 library.

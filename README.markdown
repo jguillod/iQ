@@ -3,7 +3,7 @@ iQ — The Dynamic, Structured and Easy Form JS Library
 
 ©2011-5 by [iMed Edition](http://www.imed-edition.net) and [Joël Guillod](mailto:joel.guillod@gmail.com)
 
-**Notice : there are many projects to build web forms from JSON schema.**
+> **Notice : there are many projects to build web forms from JSON schema.**
 
 The iQ project aimed at building complex web forms and managing forms data. The base engine is written in javascript and the default adapter for user interface (GUI) uses the ExtJS 4 library.
 [iMed Edition](http://www.imed-edition.net/iq) main goal is to provide a simple but complete tool for defining forms, capturing, rendering and analyzing patient healthcare data (EHR). Any application domain which manages forms could benefit from this project.
